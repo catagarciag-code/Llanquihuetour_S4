@@ -39,3 +39,14 @@ Llanquihuetour_S4/
     │   └── tours.txt               # Archivo de datos estructurado (Nombre;Tipo;Precio)
     └── ui/
         └── LlanquihueTour.java     # Clase principal (Main) que ejecuta la carga y filtros
+```
+---
+# 💻 Requisitos y Ejecución
+Lenguaje: Java (JDK 17 o superior)
+IDE Recomendado: NetBeans / IntelliJ IDEA
+
+Pasos para ejecutar: 
+* Clonar o descargar el repositorio.
+* Abrir el proyecto.
+* Ejecutar la clase principal AgenciaLlanquihueTour.java localizada en el paquete app.
+---
