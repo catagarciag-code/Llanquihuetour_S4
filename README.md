@@ -1,4 +1,7 @@
-# LlanquihueTour 🏔️ Gestión de Tours Turísticos
+
+![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
+
+# LlanquihueTour_S4 🏔️ Gestión de Tours Turísticos
 
 Proyecto desarrollado en Java (Java Application) para la gestión y filtrado de servicios turísticos de la agencia **Llanquihue Tour**, procesando datos almacenados en archivos planos.
 
