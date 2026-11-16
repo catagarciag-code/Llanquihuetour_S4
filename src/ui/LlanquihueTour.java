@@ -21,7 +21,7 @@ public class LlanquihueTour {
        GestorDatos gestor = new GestorDatos();
     String ruta = "src/resources/tour.txt";
     
-    //Lista desde el archivo cin ubicación en resources
+    //Lista desde el archivo con ubicación en resources
     ArrayList<Tours> lista = gestor.cargarTours(ruta);
     
     System.out.println("=== TODOS LOS TOURS REGISTRADOS ===");
