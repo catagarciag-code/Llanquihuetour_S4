@@ -10,11 +10,11 @@ Proyecto desarrollado en Java (Java Application) para la gestión y filtrado de 
 
 ## 👤 Autora
 
-* **Nombre:** Catalina García Santana
-* **Asignatura:** Programación de Algoritmos (PRY2202)
-* **Carrera:** Analista Programador Computacional
-* **Institución:** Duoc UC
-* **Año:** 2026
+- **Nombre completo:** Catalina García Santana
+- **Sección:** PRY220
+- **Carrera:** Analista Programador Computacional
+- **Sede:** Duoc UC Online
+  
 ---
 
 ## 📋 Descripción del Proyecto
