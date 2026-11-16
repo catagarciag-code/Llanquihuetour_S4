@@ -1,1 +1,38 @@
-# Llanquihuetour_S4
+# LlanquihueTour 🏔️ Gestión de Tours Turísticos
+
+Proyecto desarrollado en Java (Java Application) para la gestión y filtrado de servicios turísticos de la agencia **Llanquihue Tour**, procesando datos almacenados en archivos planos.
+
+---
+---
+
+## 👤 Autora
+
+* **Nombre:** Catalina García Santana
+* **Asignatura:** Programación de Algoritmos (PRY2202)
+* **Carrera:** Analista Programador Computacional
+* **Institución:** Duoc UC
+* **Año:** 2026
+---
+
+## 📋 Descripción del Proyecto
+
+La aplicación **LlanquihueTour** lee información sobre tours desde un archivo plano de texto (`tours.txt`), mapea cada registro a objetos del modelo `Tours` y los almacena dinámicamente en una colección (`ArrayList`). Posteriormente, permite recorrer la lista y realizar filtrados según criterios específicos (como el tipo o categoría de tour).
+
+---
+
+## 📁 Estructura del Proyecto
+
+El proyecto está organizado en paquetes según la arquitectura modular solicitada:
+
+```text
+Llanquihuetour_S4/
+├── README.md
+└── src/
+    ├── data/
+    │   └── GestorDatos.java        # Lectura de archivo plano y poblamiento del ArrayList
+    ├── model/
+    │   └── Tours.java              # Clase modelo con atributos (nombre, tipo, precio)
+    ├── resources/
+    │   └── tours.txt               # Archivo de datos estructurado (Nombre;Tipo;Precio)
+    └── ui/
+        └── LlanquihueTour.java     # Clase principal (Main) que ejecuta la carga y filtros
