@@ -48,5 +48,5 @@ IDE Recomendado: NetBeans / IntelliJ IDEA
 Pasos para ejecutar: 
 * Clonar o descargar el repositorio.
 * Abrir el proyecto.
-* Ejecutar la clase principal AgenciaLlanquihueTour.java localizada en el paquete app.
+* Ejecutar la clase principal LlanquihueTour.java localizada en el paquete ui.
 ---
