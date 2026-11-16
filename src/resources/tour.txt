@@ -1,0 +1,6 @@
+Teatro del Lago en Frutillar;Cultural;16000
+Trekking Volcan Osorno;Aventura;35000 
+Navegacion Todos los Santos;Lacustre;40000
+Ruta Gastronomica Llanquihue;Gastronomico;15000 
+Paseo Lacustre Lago Llanquihue;Lacustre;25000 
+Excursion Cultural Frutillar;Cultural;18000
